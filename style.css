@@ -1,0 +1,17 @@
+div {
+        background-color: gray;
+      } 
+      .header {
+        margin-bottom: 20px;
+        padding: 10px;
+	  border: 3px black;		
+
+      }
+      .content {
+        padding: 40px;
+      }
+      .footer {
+        margin-top: 20px;
+        padding: 20px;
+		border-top: 5x red;
+      }
